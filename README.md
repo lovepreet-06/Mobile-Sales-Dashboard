@@ -1,4 +1,4 @@
-# 📱 Mobile Sales Performance & Time-Intelligence Dashboard
+# 📱 Mobile Sales Dashboard
 
 ## 📌 Project Overview
 This project presents an interactive **Mobile Sales Analytics Dashboard** built using Power BI. The goal of this dashboard is to analyze mobile device sales trends across India, track key performance metrics (KPIs), evaluate customer ratings, and analyze year-over-year revenue performance using advanced Time Intelligence calculations (MTD & SPLY).
