@@ -53,16 +53,9 @@ Key DAX patterns implemented in this dashboard include:
 ![MTD Report View](Screenshot%202026-07-25%20111701.png)
 ![SPLY Analysis View](Screenshot%202026-07-25%20111848.png)
 
----
 
-## 🚀 How to Use
-1. Clone this repository.
-2. Open the `.pbix` file in **Power BI Desktop**.
-3. Explore the Main Dashboard, MTD Report, and SPLY Report pages using the slicers and filters.
-
----
 
 ## 👤 Author
-**Lovey**
+**Lovepreet**
 Data Coordinator | Aspiring Data Analyst
 📍 Targeting Data Analyst / MIS roles in Dubai, UAE
